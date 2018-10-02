@@ -29,6 +29,7 @@ function responseHandler2(req, res) {
 
     if (queryData.name) {
         // user told us their name in the GET request, ex: http://localhost:1339/?name=Ross
+        console.log("parameter="+queryData.name);
         res.end('Hello ' + queryData.name + '\n');
     } else {
         res.end("Hello World\n");
