@@ -1,3 +1,3 @@
-BusAdm810GitRepository
+//BusAdm810GitRepository
 
-This is the GIT repository for Bus Adm 810 Web Applications Development class
+//This is the GIT repository for Bus Adm 810 Web Applications Development class
